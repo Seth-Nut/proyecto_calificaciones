@@ -1,4 +1,6 @@
-# Proyecto_Calificaciones - Análisis de Calificaciones de Estudiantes
+# Proyecto Calificaciones 
+
+**Análisis de Calificaciones de Estudiantes**
 
 1. Github: https://github.com/Seth-Nut/proyecto_calificaciones
 
